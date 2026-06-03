@@ -7,10 +7,8 @@ A full-stack web application for managing students, attendance, marks, fees, and
 ## Web Images
 
 https://i.postimg.cc/kXYVQ0pX/image-png.png
-<img src="../web images/image2.png.png" width="600"/>
-<img src="../web images/image3.png.png" width="600"/>
-<img src="../web images/image4.png.png" width="600"/>
-<img src="../web images/images.png" width="600"/>
+https://i.postimg.cc/MHT6XTxN/image2-png.png
+
 ---
 
 ## 📁 Project Structure
