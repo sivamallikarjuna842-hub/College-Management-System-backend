@@ -143,7 +143,7 @@ This starts the React dev server on **http://localhost:3000** and proxies API re
 1. Open **http://localhost:3000** (or **http://localhost:5000** for production build)
 2. Login with default credentials:
    - **Username:** `admin`
-   - **Password:** `vastundi`
+   - **Password:** `admin`
 3. You can change these via `ADMIN_USERNAME` and `ADMIN_PASSWORD` environment variables.
 
 ---
