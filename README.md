@@ -63,10 +63,6 @@ college-management/
 ## 🚀 Step-by-Step Build & Run
 
 ### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/gantashivaganesh97-png/frontend-react2.git
-cd frontend-react2
 ```
 
 ### Step 2: Install Backend Dependencies
