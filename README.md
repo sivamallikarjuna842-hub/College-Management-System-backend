@@ -7,7 +7,8 @@ A full-stack web application for managing students, attendance, marks, fees, and
 ## Web Images
 <img width="959" height="446" alt="image png" src="https://github.com/user-attachments/assets/94bd3032-977a-4099-9b3a-93641277b853" />
 
-<img width="944" height="431" alt="image2 png" src="https://github.com/user-attachments/assets/81d845e7-fc42-4aaf-a8b1-5e28d3f4800b" />
+<img width="959" height="434" alt="image3 png" src="https://github.com/user-attachments/assets/6c568d92-b957-4113-bcd2-1eab3eb3a477" />
+
 
 
 ---
